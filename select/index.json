@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Reunion",
+  "base_artist": "Lonny",
+  "createdAt": "2025-12-11T10:55:53.100978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Reunion",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/01_Reunion_M83.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Reunion",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/02_Reunion_M83.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reunion - Mylo Remix",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/03_Reunion_-_Mylo_Remix_M83.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reunion (Mylo Remix)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/04_Reunion_(Mylo_Remix)_M83.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reunion (Polly Scattergood Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/05_Reunion_(Polly_Scattergood_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reunion - Sei a Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/06_Reunion_-_Sei_a_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reunion (Sei A Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/07_Reunion_(Sei_A_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reunion - The Naked and Famous Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/08_Reunion_-_The_Naked_and_Famous_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Reunion (The Naked And Famous Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/09_Reunion_(The_Naked_And_Famous_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Reunion - We Have Band Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/10_Reunion_-_We_Have_Band_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Reunion (We Have Band Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/11_Reunion_(We_Have_Band_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reunion - White Sea Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/12_Reunion_-_White_Sea_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Reunion (White Sea Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/13_Reunion_(White_Sea_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High School Reunion",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/14_High_School_Reunion_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "High School Reunion, Prom (feat. Lil Uzi Vert)",
+      "artist": "SAINt JHN feat. Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/15_High_School_Reunion,_Prom_(feat._Lil_Uzi_Vert)_SAINt_JHN_feat._Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High School Reunion, Prom (feat. Lil Uzi Vert)",
+      "artist": "SAINt JHN",
+      "has_synced": true,
+      "path": "select/16_High_School_Reunion,_Prom_(feat._Lil_Uzi_Vert)_SAINt_JHN.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweet Reunion",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/17_Sweet_Reunion_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Reunion (feat. BAKAMONO)",
+      "artist": "Lonny",
+      "has_synced": false,
+      "path": "select/pl_01_Reunion_(feat._BAKAMONO)_Lonny.txt"
+    }
+  ]
+}
